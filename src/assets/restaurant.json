@@ -1,0 +1,220 @@
+{
+   "restaurants": [
+    {
+        "restaurant": {
+            "R": {
+                "res_id": 18482886,
+                "is_grocery_store": false,
+                "has_menu_status": {
+                    "delivery": -1,
+                    "takeaway": -1
+                }
+            },
+            "apikey": "aff013136b8a3ede3692be7ce8c1f98b",
+            "id": "18482886",
+            "name": "Corner House",
+            "url": "https://www.zomato.com/singapore/corner-house-tanglin?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+            "location": {
+                "address": "1 Cluny Road, Botanic Gardens, East J H Corner House, Nassim Gate 259569",
+                "locality": "Tyersall, Tanglin",
+                "city": "Singapore",
+                "city_id": 52,
+                "latitude": "1.3149352421",
+                "longitude": "103.8155637380",
+                "zipcode": "259569",
+                "country_id": 184,
+                "locality_verbose": "Tyersall, Tanglin, Singapore"
+            },
+            "switch_to_order_menu": 0,
+            "cuisines": "Continental, French",
+            "timings": "Closed (Mon),12 Noon to 3 PM, 6:30 PM to 11 PM (Tue-Sat),11:30 AM to 3 PM, 6:30 PM to 11 PM (Sun)",
+            "average_cost_for_two": 755,
+            "price_range": 4,
+            "currency": "$",
+            "highlights": [
+                "Cash",
+                "Debit Card",
+                "Dinner",
+                "Credit Card",
+                "Lunch",
+                "Outdoor Seating",
+                "Private Dining Area Available",
+                "Wine",
+                "Indoor Seating",
+                "Michelin Starred",
+                "Table booking recommended"
+            ],
+            "offers": [],
+            "opentable_support": 0,
+            "is_zomato_book_res": 0,
+            "mezzo_provider": "OTHER",
+            "is_book_form_web_view": 0,
+            "book_form_web_view_url": "",
+            "book_again_url": "",
+            "thumb": "https://b.zmtcdn.com/data/res_imagery/18482886_RESTAURANT_fbd9b9f5d934565d4b480f9400e119c7.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+            "user_rating": {
+                "aggregate_rating": "3.9",
+                "rating_text": "Good",
+                "rating_color": "9ACD32",
+                "rating_obj": {
+                    "title": {
+                        "text": "3.9"
+                    },
+                    "bg_color": {
+                        "type": "lime",
+                        "tint": "600"
+                    }
+                },
+                "votes": 40
+            },
+            "all_reviews_count": 29,
+            "photos_url": "https://www.zomato.com/singapore/corner-house-tanglin/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+            "photo_count": 396,
+            "menu_url": "https://www.zomato.com/singapore/corner-house-tanglin/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+            "featured_image": "https://b.zmtcdn.com/data/res_imagery/18482886_RESTAURANT_fbd9b9f5d934565d4b480f9400e119c7.jpg",
+            "medio_provider": false,
+            "has_online_delivery": 0,
+            "is_delivering_now": 0,
+            "store_type": "",
+            "include_bogo_offers": true,
+            "deeplink": "zomato://restaurant/18482886",
+            "is_table_reservation_supported": 0,
+            "has_table_booking": 0,
+            "events_url": "https://www.zomato.com/singapore/corner-house-tanglin/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+            "phone_numbers": "64691000",
+            "all_reviews": {
+                "reviews": [
+                    {
+                        "review": []
+                    },
+                    {
+                        "review": []
+                    },
+                    {
+                        "review": []
+                    },
+                    {
+                        "review": []
+                    },
+                    {
+                        "review": []
+                    }
+                ]
+            },
+            "establishment": [
+                "Fine Dining"
+            ],
+            "establishment_types": []
+        }
+    },
+    {
+        "restaurant": {
+            "R": {
+                "res_id": 18485564,
+                "is_grocery_store": false,
+                "has_menu_status": {
+                    "delivery": -1,
+                    "takeaway": -1
+                }
+            },
+            "apikey": "aff013136b8a3ede3692be7ce8c1f98b",
+            "id": "18485564",
+            "name": "Wild Honey",
+            "url": "https://www.zomato.com/singapore/wild-honey-orchard?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+            "location": {
+                "address": "333A Orchard Road, #03-02 Mandarin Gallery 238897",
+                "locality": "Grange Road, Orchard",
+                "city": "Singapore",
+                "city_id": 52,
+                "latitude": "1.3020450522",
+                "longitude": "103.8370989400",
+                "zipcode": "238897",
+                "country_id": 184,
+                "locality_verbose": "Grange Road, Orchard, Singapore"
+            },
+            "switch_to_order_menu": 0,
+            "cuisines": "European, Spanish, American, Cafe",
+            "timings": "9 AM to 8 PM (Mon, Tue, Wed, Thu, Sun), 9 AM to 9 PM (Fri-Sat)",
+            "average_cost_for_two": 70,
+            "price_range": 4,
+            "currency": "$",
+            "highlights": [
+                "Cash",
+                "Debit Card",
+                "Breakfast",
+                "Dinner",
+                "Credit Card",
+                "Takeaway Available",
+                "Lunch",
+                "Indoor Seating",
+                "Desserts and Bakes",
+                "Outdoor Seating",
+                "Kid Friendly",
+                "Brunch",
+                "Table booking recommended"
+            ],
+            "offers": [],
+            "opentable_support": 0,
+            "is_zomato_book_res": 0,
+            "mezzo_provider": "OTHER",
+            "is_book_form_web_view": 0,
+            "book_form_web_view_url": "",
+            "book_again_url": "",
+            "thumb": "https://b.zmtcdn.com/data/res_imagery/18485564_CHAIN_cb7d8dc27e4e43dacb1e0cde157844b4.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+            "user_rating": {
+                "aggregate_rating": "4.1",
+                "rating_text": "Very Good",
+                "rating_color": "5BA829",
+                "rating_obj": {
+                    "title": {
+                        "text": "4.1"
+                    },
+                    "bg_color": {
+                        "type": "lime",
+                        "tint": "700"
+                    }
+                },
+                "votes": 99
+            },
+            "all_reviews_count": 57,
+            "photos_url": "https://www.zomato.com/singapore/wild-honey-orchard/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+            "photo_count": 136,
+            "menu_url": "https://www.zomato.com/singapore/wild-honey-orchard/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+            "featured_image": "https://b.zmtcdn.com/data/res_imagery/18485564_CHAIN_cb7d8dc27e4e43dacb1e0cde157844b4.jpg",
+            "medio_provider": false,
+            "has_online_delivery": 0,
+            "is_delivering_now": 0,
+            "store_type": "",
+            "include_bogo_offers": true,
+            "deeplink": "zomato://restaurant/18485564",
+            "is_table_reservation_supported": 0,
+            "has_table_booking": 0,
+            "events_url": "https://www.zomato.com/singapore/wild-honey-orchard/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+            "phone_numbers": "62353900, 66361816",
+            "all_reviews": {
+                "reviews": [
+                    {
+                        "review": []
+                    },
+                    {
+                        "review": []
+                    },
+                    {
+                        "review": []
+                    },
+                    {
+                        "review": []
+                    },
+                    {
+                        "review": []
+                    }
+                ]
+            },
+            "establishment": [
+                "Casual Dining"
+            ],
+            "establishment_types": []
+        }
+    }
+   ]
+}
