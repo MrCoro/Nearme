@@ -9,7 +9,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "axios": "^0.20.0",
+    "axios": "^1.8.4",
     "google-maps-react": "^2.0.6",
     "pigeon-maps": "^0.17.0",
     "pigeon-marker": "^0.3.4",
@@ -17,8 +17,8 @@
     "react": "^16.14.0",
     "react-device-detect": "^1.15.0",
     "react-dom": "^16.14.0",
-    "react-google-maps": "^9.4.5",
-    "react-scripts": "3.4.3"
+    "react-google-maps": "^7.3.0",
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
